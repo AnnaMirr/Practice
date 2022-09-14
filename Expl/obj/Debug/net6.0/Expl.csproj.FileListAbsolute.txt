@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub_main\Test\Expl\bin\Debug\net6.0\Expl.exe
+C:\Users\user\Documents\GitHub_main\Test\Expl\bin\Debug\net6.0\Expl.deps.json
+C:\Users\user\Documents\GitHub_main\Test\Expl\bin\Debug\net6.0\Expl.runtimeconfig.json
+C:\Users\user\Documents\GitHub_main\Test\Expl\bin\Debug\net6.0\Expl.dll
+C:\Users\user\Documents\GitHub_main\Test\Expl\bin\Debug\net6.0\Expl.pdb
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.dll
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\refint\Expl.dll
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.pdb
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\Expl.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub_main\Test\Expl\obj\Debug\net6.0\ref\Expl.dll
