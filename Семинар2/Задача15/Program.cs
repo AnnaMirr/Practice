@@ -14,3 +14,5 @@ else if (numberDay < 6 || numberDay > 7);
 {
     Console.WriteLine("Sorry, this is not a weekend day.");
 }
+
+// For countries whose day of the week starts on Monday.
