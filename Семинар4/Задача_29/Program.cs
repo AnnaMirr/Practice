@@ -16,17 +16,17 @@ void PrintArray(int[] numbers)
 {
     for (int i = 0; i < numbers.Length; i++)
     {
-        Console.WriteLine("[{0}]", string.Join(", ", numbers));
+        Console.Write(" " + numbers[i]);
     }
 }
 
-
 void Zadacha29()
 {
-    int[] numbers = new int[];
+    int[] numbers = new int[8];
     FillArray(numbers);
     PrintArray(numbers);
-}
+    Console.WriteLine("---> " + $"[{String.Join(",", numbers)}]");
 
+}
 
 Zadacha29();
